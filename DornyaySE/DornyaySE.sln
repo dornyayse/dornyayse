@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "main", "main", "{649786B1-8AD0-4239-9B36-EFF8F144D675}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{5335F024-D10B-4998-B251-B590145A3BF0}"
+	ProjectSection(SolutionItems) = preProject
+		css\bootstrap-grid.min.css = css\bootstrap-grid.min.css
+		css\bootstrap-reboot.min.css = css\bootstrap-reboot.min.css
+		css\bootstrap.min.css = css\bootstrap.min.css
+		css\meshons.css = css\meshons.css
+		css\tether-theme-arrows-dark.min.css = css\tether-theme-arrows-dark.min.css
+		css\tether-theme-arrows.min.css = css\tether-theme-arrows.min.css
+		css\tether-theme-basic.min.css = css\tether-theme-basic.min.css
+		css\tether.min.css = css\tether.min.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{BA1A2DB2-774B-4CE9-9ECF-DD91260C13AD}"
+	ProjectSection(SolutionItems) = preProject
+		scripts\bootstrap.min.js = scripts\bootstrap.min.js
+		scripts\hammer-time.min.js = scripts\hammer-time.min.js
+		scripts\hammer.min.js = scripts\hammer.min.js
+		scripts\jquery-3.2.1.min.js = scripts\jquery-3.2.1.min.js
+		scripts\jquery.hammer.js = scripts\jquery.hammer.js
+		scripts\tether.js = scripts\tether.js
+		scripts\tether.min.js = scripts\tether.min.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5335F024-D10B-4998-B251-B590145A3BF0} = {649786B1-8AD0-4239-9B36-EFF8F144D675}
+		{BA1A2DB2-774B-4CE9-9ECF-DD91260C13AD} = {649786B1-8AD0-4239-9B36-EFF8F144D675}
+	EndGlobalSection
+EndGlobal
